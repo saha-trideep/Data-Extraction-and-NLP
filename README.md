@@ -29,23 +29,37 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/saha-trideep/Data-Extraction-and-NLP.git
+
+
 cd text-analysis-project
 
 Install dependencies:
+
+
 bash
 Copy code
+
+
 `pip install -r requirements.txt`
 
 Run the script:
+
+
 bash
 Copy code
+
+
 `python text_analysis_script.py`
 
 Check the output:
+
+
 The analysis results will be saved in output/Output Data Structure.xlsx.
 
 Contributors
-Your Name (GitHub: saha-trideep)
+GitHub: saha-trideep
+
 License
+
 This project is licensed under the MIT License.
 
