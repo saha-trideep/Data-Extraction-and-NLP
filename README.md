@@ -17,10 +17,15 @@ Text analysis is performed using the TextBlob library in Python. Various variabl
 ---
 Project Dependencies
 
+
 [Python 3.10]
+
 [pandas]
+
 [textblob]
+
 [nltk]
+
 [syllables]
 
 Install the required dependencies using the following:
