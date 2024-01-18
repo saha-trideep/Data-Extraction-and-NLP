@@ -13,8 +13,8 @@ Python is used, along with the Beautiful Soup library, to crawl the provided URL
 
 ### Text Analysis: 
 Text analysis is performed using the TextBlob library in Python. Various variables are computed, such as positive and negative scores, fog index, percentage of complex words, and more. The analysis results are stored in an output Excel file [Output Data Structure.xlsx](https://docs.google.com/spreadsheets/d/1Hm-UipDsn93nuimMx6JZuAkOYAyID9G2/edit?usp=sharing&ouid=116109919028728930152&rtpof=true&sd=true), following the specified format.
----
 
+---
 Project Dependencies
 Python 3.10
 pandas
